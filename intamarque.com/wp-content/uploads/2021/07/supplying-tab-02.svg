@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="78" height="81" viewBox="0 0 78 81">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3827" data-name="Rectangle 3827" width="78" height="81" transform="translate(398.313 922.926)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_256" data-name="Mask Group 256" transform="translate(-398.313 -922.926)" clip-path="url(#clip-path)">
+    <g id="Group_12940" data-name="Group 12940" transform="translate(218.553 616.29)">
+      <circle id="Ellipse_2919" data-name="Ellipse 2919" cx="31.604" cy="31.604" r="31.604" transform="translate(180 306.633)" fill="#e9eaeb"/>
+      <path id="Path_11876" data-name="Path 11876" d="M249.291,371.51H186V319.521h3.391L192.781,315h18.083l3.391,4.521h35.036Z" transform="translate(0.781 1.001)" fill="#e9eaeb" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+      <rect id="Rectangle_3805" data-name="Rectangle 3805" width="54.305" height="42.732" transform="translate(191.573 325.328)" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_952" data-name="Line 952" x1="47.183" transform="translate(195.134 329.779)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_953" data-name="Line 953" x2="15.134" transform="translate(195.134 320.877)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+      <rect id="Rectangle_3806" data-name="Rectangle 3806" width="5.341" height="26.707" transform="translate(230.744 336.011)" fill="#2acbd2" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+      <rect id="Rectangle_3807" data-name="Rectangle 3807" width="5.341" height="20.476" transform="translate(220.951 342.243)" fill="#2acbd2" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+      <rect id="Rectangle_3808" data-name="Rectangle 3808" width="6.232" height="14.244" transform="translate(210.268 348.475)" fill="#2acbd2" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+      <rect id="Rectangle_3809" data-name="Rectangle 3809" width="5.341" height="9.793" transform="translate(200.476 352.926)" fill="#2acbd2" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_954" data-name="Line 954" x1="47.183" transform="translate(195.134 362.719)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

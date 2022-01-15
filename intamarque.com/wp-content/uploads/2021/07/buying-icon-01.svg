@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="84" viewBox="0 0 90 84">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3820" data-name="Rectangle 3820" width="90" height="84" transform="translate(164.734 965.926)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_250" data-name="Mask Group 250" transform="translate(-164.734 -965.926)" clip-path="url(#clip-path)">
+    <circle id="Ellipse_2916" data-name="Ellipse 2916" cx="31.205" cy="31.205" r="31.205" transform="matrix(0.736, -0.677, 0.677, 0.736, 157.548, 1012.091)" fill="#e9eaeb"/>
+    <rect id="Rectangle_3801" data-name="Rectangle 3801" width="45.836" height="34.687" transform="translate(183.738 977.572)" fill="#fff" stroke="#02022b" stroke-miterlimit="10" stroke-width="1.5"/>
+    <rect id="Rectangle_3802" data-name="Rectangle 3802" width="13.627" height="7.433" transform="translate(199.843 977.572)" fill="#2acbd2" stroke="#02022b" stroke-miterlimit="10" stroke-width="1.5"/>
+    <g id="Group_12938" data-name="Group 12938" transform="translate(173.86 1002.214)">
+      <path id="Path_11866" data-name="Path 11866" d="M136.973,228.218c-3,.7-5.617,2.5-7.64,6.437l-6.677,3.782a4.508,4.508,0,0,0-3.782-1.739h-9.686c-1.413,0-4.352-3.716-6.594-3.716H94.64c-2.293,0-5.228,2-6.874,3.532-2.545,2.543-9.014,8.656-9.74,9.246,4.047,3.5,12.467,11.522,14.327,13.162,2.516-2.515,3.5-4.881,5.577-4.881h22.639c1.887,0,12.192-9.4,13.51-10.878,1.269-1.421,8-10.136,9.571-13.8C142.667,228.037,140.118,227.487,136.973,228.218Z" transform="translate(-78.026 -227.892)" fill="#fff" stroke="#02022b" stroke-width="1.5"/>
+      <path id="Path_11867" data-name="Path 11867" d="M105.248,245.369h13.627a4.346,4.346,0,1,0,0-8.672h-9.686c-1.413,0-4.352-3.716-6.594-3.716H94.64c-2.293,0-5.228,2-6.874,3.532-2.545,2.543-9.014,8.656-9.74,9.246,4.047,3.5,12.467,11.522,14.327,13.162,2.516-2.515,3.5-4.881,5.577-4.881h22.639c1.887,0,12.192-9.4,13.51-10.878,1.269-1.421,8-10.135,9.571-13.8-.984-1.326-3.533-1.876-6.677-1.145-3,.7-5.617,2.5-7.64,6.437l-6.743,3.282" transform="translate(-78.026 -227.892)" fill="none" stroke="#02022b" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <rect id="Rectangle_3803" data-name="Rectangle 3803" width="11.891" height="26.409" transform="matrix(0.707, -0.707, 0.707, 0.707, 166.409, 1023.317)" fill="#2acbd2" stroke="#02022b" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line id="Line_931" data-name="Line 931" x2="3.257" y2="3.257" transform="translate(173.326 1022.148)" fill="none" stroke="#02022b" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line id="Line_932" data-name="Line 932" x2="2.478" transform="translate(187.454 1002.348)" fill="none" stroke="#02022b" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line id="Line_933" data-name="Line 933" x2="2.478" transform="translate(192.41 1002.348)" fill="none" stroke="#02022b" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line id="Line_934" data-name="Line 934" x2="2.478" transform="translate(197.365 1002.348)" fill="none" stroke="#02022b" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

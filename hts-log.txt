@@ -1,0 +1,57 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 13 Jan 2022 16:28:58 at https://intamarque.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://intamarque.com/ -O1 "C:\My Web Sites\metropharma" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:31:06	Error: 	"Not Found" (404) at link https://intamarque.com/wp-content/themes/intamarque2021/assets/img/social-icons-sprite-yellow.svg (from https://intamarque.com/wp-content/themes/intamarque2021/dist/css/main.css?ver=1.1)
+16:31:06	Error: 	"Not Found" (404) at link https://intamarque.com/wp-content/themes/intamarque2021/assets/img/social-icons-sprite-grey.svg (from https://intamarque.com/wp-content/themes/intamarque2021/dist/css/main.css?ver=1.1)
+16:31:06	Error: 	"Not Found" (404) at link https://intamarque.com/wp-content/themes/intamarque2021/assets/img/lock-icon.svg (from https://intamarque.com/wp-content/themes/intamarque2021/dist/css/main.css?ver=1.1)
+16:31:06	Error: 	"Not Found" (404) at link https://intamarque.com/wp-content/themes/intamarque2021/assets/img/play-icon.svg (from https://intamarque.com/wp-content/themes/intamarque2021/dist/css/main.css?ver=1.1)
+16:31:06	Error: 	"Not Found" (404) at link https://intamarque.com/wp-content/themes/intamarque2021/assets/img/contact-icons.svg (from https://intamarque.com/wp-content/themes/intamarque2021/dist/css/main.css?ver=1.1)
+16:31:06	Error: 	"Not Found" (404) at link https://intamarque.com/wp-content/themes/intamarque2021/assets/img/pencil-icon.svg (from https://intamarque.com/wp-content/themes/intamarque2021/dist/css/main.css?ver=1.1)
+16:31:06	Error: 	"Not Found" (404) at link https://intamarque.com/wp-content/themes/intamarque2021/assets/img/phone-icon.svg (from https://intamarque.com/wp-content/themes/intamarque2021/dist/css/main.css?ver=1.1)
+16:31:06	Error: 	"Not Found" (404) at link https://intamarque.com/wp-content/themes/intamarque2021/assets/img/mac-icon.svg (from https://intamarque.com/wp-content/themes/intamarque2021/dist/css/main.css?ver=1.1)
+16:31:06	Error: 	"Not Found" (404) at link https://intamarque.com/wp-content/themes/intamarque2021/assets/img/chair-icon.svg (from https://intamarque.com/wp-content/themes/intamarque2021/dist/css/main.css?ver=1.1)
+16:31:06	Warning: 	Moved Permanently for https://intamarque.com/?p=9
+16:31:06	Warning: 	File has moved from https://intamarque.com/?p=9 to https://intamarque.com/about-us/
+16:31:07	Warning: 	Moved Permanently for https://intamarque.com/?p=13
+16:31:07	Warning: 	File has moved from https://intamarque.com/?p=13 to https://intamarque.com/meet-the-team/
+16:31:08	Warning: 	Moved Permanently for https://intamarque.com/intamarque2021/get-in-touch/
+16:31:08	Warning: 	File has moved from https://intamarque.com/intamarque2021/get-in-touch/ to https://intamarque.com/get-in-touch/
+16:31:08	Warning: 	Moved Permanently for https://intamarque.com/intamarque2021//careers/
+16:31:08	Warning: 	Redirected link is identical because of 'URL Hack' option: https://intamarque.com/intamarque2021//careers/ and https://intamarque.com/intamarque2021/careers/
+16:31:08	Warning: 	File has moved from https://intamarque.com/intamarque2021//careers/ to https://intamarque.com/intamarque2021/careers/
+16:31:08	Warning: 	Moved Permanently for https://intamarque.com/?p=15
+16:31:08	Warning: 	File has moved from https://intamarque.com/?p=15 to https://intamarque.com/careers/
+16:31:14	Warning: 	Moved Permanently for https://intamarque.com/?p=669
+16:31:14	Warning: 	File has moved from https://intamarque.com/?p=669 to https://intamarque.com/buying-from-intamarque/
+16:31:14	Warning: 	Moved Permanently for https://intamarque.com/?p=223
+16:31:14	Warning: 	File has moved from https://intamarque.com/?p=223 to https://intamarque.com/brands/
+16:31:14	Error: 	"Bad Request" (400) at link https://intamarque.com/wp-admin/admin-ajax.php (from https://intamarque.com/brands/)
+16:31:14	Warning: 	Moved Permanently for https://intamarque.com/?p=251
+16:31:14	Warning: 	File has moved from https://intamarque.com/?p=251 to https://intamarque.com/how-to-order/
+16:31:14	Warning: 	Moved Permanently for https://intamarque.com/?p=374
+16:31:14	Warning: 	File has moved from https://intamarque.com/?p=374 to https://intamarque.com/supplying-to-intamarque/
+16:31:15	Warning: 	Moved Permanently for https://intamarque.com/?p=460
+16:31:15	Warning: 	File has moved from https://intamarque.com/?p=460 to https://intamarque.com/brand-distribution/
+16:31:15	Warning: 	Moved Permanently for https://intamarque.com/?p=158
+16:31:15	Warning: 	File has moved from https://intamarque.com/?p=158 to https://intamarque.com/get-in-touch/
+16:31:15	Warning: 	Moved Permanently for https://intamarque.com/?p=1209
+16:31:15	Warning: 	File has moved from https://intamarque.com/?p=1209 to https://intamarque.com/how-pg-has-evolved-its-climate-strategy-to-target-a-net-zero-value-chain-by-2040/
+16:31:15	Error: 	"Method Not Allowed" (405) at link https://intamarque.com/xmlrpc.php (from https://intamarque.com/how-pg-has-evolved-its-climate-strategy-to-target-a-net-zero-value-chain-by-2040/)
+16:31:15	Warning: 	Moved Permanently for https://intamarque.com/?p=1206
+16:31:15	Warning: 	File has moved from https://intamarque.com/?p=1206 to https://intamarque.com/is-online-or-in-store-food-shopping-better-for-the-planet/
+16:31:15	Warning: 	Moved Permanently for https://intamarque.com/?p=1114
+16:31:15	Warning: 	File has moved from https://intamarque.com/?p=1114 to https://intamarque.com/bondi-sands/
+16:31:16	Warning: 	Moved Permanently for https://intamarque.com/?p=601
+16:31:16	Warning: 	File has moved from https://intamarque.com/?p=601 to https://intamarque.com/applications/buyer/
+16:31:16	Warning: 	Moved Permanently for https://intamarque.com/?p=599
+16:31:16	Warning: 	File has moved from https://intamarque.com/?p=599 to https://intamarque.com/applications/sales-support-admin/
+16:31:16	Warning: 	Moved Permanently for https://intamarque.com/?p=382
+16:31:16	Warning: 	File has moved from https://intamarque.com/?p=382 to https://intamarque.com/applications/warehouse-manager/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 18 seconds : 365 links scanned, 335 files written (47965922 bytes overall) [46880854 bytes received at 339716 bytes/sec], 2021397 bytes transferred using HTTP compression in 78 files, ratio 27%, 9.1 requests per connection
+(11 errors, 35 warnings, 0 messages)
